@@ -1,5 +1,3 @@
 export default function Home() {
-  return (
-    <div>Boilerplate NextJS</div>
-  )
+  return <div>Boilerplate NextJS</div>
 }
